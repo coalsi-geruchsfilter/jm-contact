@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:4.0
+REV:20260519T062230Z
+N:Mültner;Jürgen;;;
+FN:Jürgen Mültner
+EMAIL;TYPE=WORK,INTERNET:j.mueltner@coalsi.com
+TEL;TYPE=WORK,VOICE:+49 151 185 128 36
+ADR;TYPE=WORK,POSTAL:;;Dorfstraße 7;Großhelfendorf;Bayerb;85653;Deutschland
+URL:www.coalsi.com
+END:VCARD
